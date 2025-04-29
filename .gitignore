@@ -1,0 +1,7 @@
+# env file with api keys and stuff
+.env
+
+# folder with a butt load of sqlite db-s
+/data
+# folder to put stuff into that you will delete in a second
+/tmp
