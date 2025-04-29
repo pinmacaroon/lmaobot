@@ -8,3 +8,6 @@
 
 # python silliness
 /__pycache__
+
+# vscode
+/.vscode
