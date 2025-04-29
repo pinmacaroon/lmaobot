@@ -5,3 +5,6 @@
 /data
 # folder to put stuff into that you will delete in a second
 /tmp
+
+# python silliness
+/__pycache__
